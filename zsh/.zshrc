@@ -13,9 +13,9 @@ ZSH_THEME="gallois"
 plugins=(git zsh-history-substring-search z)
 
 source $ZSH/oh-my-zsh.sh
-source $HOME/.zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source $HOME/.zsh/zsh-syntax-highlighting.zsh
 
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
-
+[ -s "$HOME/.zshrc_custom" ] && \. "$HOME/.zshrc_custom" ]
 eval "$(rbenv init -)"

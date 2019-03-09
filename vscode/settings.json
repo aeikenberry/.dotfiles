@@ -1,0 +1,53 @@
+{
+    "git.autofetch": true,
+    "editor.tabSize": 2,
+    "terminal.external.osxExec": "iTerm 2.app",
+    "terminal.integrated.scrollback": 10000,
+    "git.enableSmartCommit": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "flow.useNPMPackagedFlow": true,
+    "javascript.validate.enable": false,
+    "editor.fontFamily": "Hack",
+    "workbench.activityBar.visible": false,
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.fontFamily": "Hack",
+    "window.zoomLevel": 0,
+    "solargraph.commandPath": "/Users/aaroneikenberry/.rbenv/versions/2.4.3/bin/solargraph",
+    "ruby.lint": {
+        "ruby": true
+    },
+    "files.trimTrailingWhitespace": true,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.rightClickBehavior": "default",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "ruby.useBundler": true,
+    "workbench.statusBar.visible": true,
+    "solargraph.formatting": true,
+    "editor.minimap.enabled": false,
+    "terminal.integrated.shell.linux": "/usr/local/bin/zsh",
+    "solargraph.checkGemVersion": false,
+    "editor.fontSize": 18,
+    "editor.tokenColorCustomizations": {
+        "[City Lights]": {
+            "variables": "#80a3bc"
+        }
+    },
+    "workbench.colorTheme": "City Lights",
+    "workbench.sideBar.location": "left",
+    "git.confirmSync": false,
+    "breadcrumbs.enabled": false,
+    "gitlens.blame.highlight.enabled": false,
+    "gitlens.blame.heatmap.enabled": false,
+    "gitlens.codeLens.enabled": false,
+    "gitlens.codeLens.recentChange.enabled": false,
+    "gitlens.currentLine.enabled": false,
+    "workbench.iconTheme": "city-lights-icons-vsc",
+    "workbench.editor.showTabs": true,
+    "city-lights-icons-vsc.hidesExplorerArrows": false,
+    "go.inferGopath": true,
+    "terminal.integrated.rendererType": "canvas",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.fontSize": 16
+}
+
